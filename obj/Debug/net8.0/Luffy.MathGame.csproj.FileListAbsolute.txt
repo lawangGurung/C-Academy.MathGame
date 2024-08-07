@@ -1,0 +1,15 @@
+/home/lawang/Desktop/Luffy.MathGame/bin/Debug/net8.0/Luffy.MathGame
+/home/lawang/Desktop/Luffy.MathGame/bin/Debug/net8.0/Luffy.MathGame.deps.json
+/home/lawang/Desktop/Luffy.MathGame/bin/Debug/net8.0/Luffy.MathGame.runtimeconfig.json
+/home/lawang/Desktop/Luffy.MathGame/bin/Debug/net8.0/Luffy.MathGame.dll
+/home/lawang/Desktop/Luffy.MathGame/bin/Debug/net8.0/Luffy.MathGame.pdb
+/home/lawang/Desktop/Luffy.MathGame/obj/Debug/net8.0/Luffy.MathGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/lawang/Desktop/Luffy.MathGame/obj/Debug/net8.0/Luffy.MathGame.AssemblyInfoInputs.cache
+/home/lawang/Desktop/Luffy.MathGame/obj/Debug/net8.0/Luffy.MathGame.AssemblyInfo.cs
+/home/lawang/Desktop/Luffy.MathGame/obj/Debug/net8.0/Luffy.MathGame.csproj.CoreCompileInputs.cache
+/home/lawang/Desktop/Luffy.MathGame/obj/Debug/net8.0/Luffy.MathGame.sourcelink.json
+/home/lawang/Desktop/Luffy.MathGame/obj/Debug/net8.0/Luffy.MathGame.dll
+/home/lawang/Desktop/Luffy.MathGame/obj/Debug/net8.0/refint/Luffy.MathGame.dll
+/home/lawang/Desktop/Luffy.MathGame/obj/Debug/net8.0/Luffy.MathGame.pdb
+/home/lawang/Desktop/Luffy.MathGame/obj/Debug/net8.0/Luffy.MathGame.genruntimeconfig.cache
+/home/lawang/Desktop/Luffy.MathGame/obj/Debug/net8.0/ref/Luffy.MathGame.dll

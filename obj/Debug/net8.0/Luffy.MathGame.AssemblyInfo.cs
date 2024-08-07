@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Luffy.MathGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7210802692b0767d4973b8647e67f2e6f4455297")]
 [assembly: System.Reflection.AssemblyProductAttribute("Luffy.MathGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Luffy.MathGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
